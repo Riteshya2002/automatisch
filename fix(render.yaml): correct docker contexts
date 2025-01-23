@@ -1,6 +1,6 @@
 services:
   - type: web
-    plan: fre
+    plan: free
     name: automatisch-main
     env: docker
     dockerfilePath: ./docker/Dockerfile
